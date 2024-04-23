@@ -1,0 +1,8 @@
+.post-type-post .acf-postbox div[data-name="place_google_sync_button"] .acf-input {
+    display: flex;
+}
+
+.spinner__google {
+    visibility: visible;
+    display: none;
+}

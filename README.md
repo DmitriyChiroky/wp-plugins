@@ -1,2 +1,4 @@
-# wp-plugins
-Plugins development and modification
+Plugins development and modification.
+
+## List of WordPress Plugins
+

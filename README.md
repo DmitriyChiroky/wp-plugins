@@ -39,6 +39,6 @@ Plugins development and modification.
 
 ## Скриншоты:
 
-[Posts Rating Page in Admin](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Posts%20Rating%20Page%20in%20Admin.jpg)
+[Posts Rating Page in Admin](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Posts%20Rating%20Page%20in%20Admin.jpg)  
 [Page with use Shortcode of Posts Rating](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Page%20with%20use%20Shortcode%20of%20Posts%20Rating.jpg)
 

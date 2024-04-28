@@ -4,7 +4,7 @@ Plugins development and modification.
 
 ---
 
-### Bob Single Sync Info
+### Плагин - Bob Single Sync Info
 [Code - GitHub](https://github.com/DmitriyChiroky/wp-plugins/tree/main/bob-single-sync-info)
 
 Описание.
@@ -21,12 +21,10 @@ Plugins development and modification.
 
 ---
 
-### Custom Ratings Plugin
+### Плагин - Custom Ratings Plugin
 [Code - GitHub](https://github.com/DmitriyChiroky/wp-plugins/tree/main/bob-single-sync-info)
 
-# Плагин "Custom Ratings Plugin"
-
-Плагин "Custom Ratings Plugin" представляет собой мощный инструмент для управления рейтингами постов на вашем сайте WordPress. С помощью этого плагина вы легко сможете создавать кастомные страницы с рейтингами постов, использовать шорткоды для отображения рейтингов в любом месте сайта и редактировать рейтинги непосредственно из административной панели.
+Плагин представляет собой мощный инструмент для управления рейтингами постов на вашем сайте WordPress. С помощью этого плагина вы легко сможете создавать кастомные страницы с рейтингами постов, использовать шорткоды для отображения рейтингов в любом месте сайта и редактировать рейтинги непосредственно из административной панели.
 
 ## Основные функции:
 

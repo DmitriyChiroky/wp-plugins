@@ -14,10 +14,14 @@ Plugins development and modification.
 - получение и обновление данных об отеле: цена, рейтинг, количество оценок, адрес, класс отеля. Синхронизация происходит путем нажатия на кнопки в посте -  Google Sync, TripAdvisor Sync and SerpApi Sync Info.
 - формирование общего рейтинга. При обновлении поста производится суммирование всех рейтингов и выводится средний по определенной формуле.
 - автоматическое обновление рейтинга и цен на отели каждую неделю.
+- 
+## Скриншоты:
+
+[Single Post Fields](https://github.com/DmitriyChiroky/wp-plugins/blob/main/bob-single-sync-info/single-post-fields.png)
 
 ---
 
-### Bob Single Sync Info
+### Custom Ratings Plugin
 [Code - GitHub](https://github.com/DmitriyChiroky/wp-plugins/tree/main/bob-single-sync-info)
 
 # Плагин "Custom Ratings Plugin"
@@ -39,6 +43,6 @@ Plugins development and modification.
 
 ## Скриншоты:
 
-![Posts Rating Page in Admin](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Posts%20Rating%20Page%20in%20Admin.jpg)
-![Page with use Shortcode of Posts Rating](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Page%20with%20use%20Shortcode%20of%20Posts%20Rating.jpg)
+[Posts Rating Page in Admin](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Posts%20Rating%20Page%20in%20Admin.jpg)  
+[Page with use Shortcode of Posts Rating](https://github.com/DmitriyChiroky/wp-plugins/blob/main/custom-ratings-plugin/Page%20with%20use%20Shortcode%20of%20Posts%20Rating.jpg)
 

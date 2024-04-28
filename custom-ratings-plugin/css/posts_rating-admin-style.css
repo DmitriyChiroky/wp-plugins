@@ -1,0 +1,56 @@
+.toplevel_page_posts-rating #wpbody {
+    padding-right: 18px;
+
+}
+
+.toplevel_page_posts-rating #wpbody-content {
+    margin-top: 15px;
+}
+
+.toplevel_page_posts-rating #wpbody-content h1 {
+    margin-bottom: 30px;
+}
+
+.wcl-post-category {
+    margin-bottom: 10px;
+}
+
+.wcl-categories-filter {
+    margin: 10px 0;
+    display: flex;
+}
+
+
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination a,
+.pagination span {
+    display: inline-block;
+    padding: 3px 6px;
+    margin: 0 3px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.pagination .current {
+    background-color: #0073aa;
+    color: #fff;
+}
+
+
+.wcl-block-1 .data-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    column-gap: 30px;
+}
+
+.shortcode-field {
+    margin: 10px 0;
+}
+
+

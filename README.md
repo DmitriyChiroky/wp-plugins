@@ -17,7 +17,7 @@ Plugins development and modification.
 
 ---
 
-### Bob Single Sync Info
+### Custom Ratings Plugin
 [Code - GitHub](https://github.com/DmitriyChiroky/wp-plugins/tree/main/bob-single-sync-info)
 
 # Плагин "Custom Ratings Plugin"

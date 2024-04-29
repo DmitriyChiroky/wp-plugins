@@ -1,6 +1,6 @@
 Plugins development and modification.
 
-## List of WordPress Plugins
+# List of WordPress Plugins
 
 ---
 

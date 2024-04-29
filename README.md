@@ -1,5 +1,4 @@
-## Plugins development and modification.
-
+## Plugins development and modification.  
 List of WordPress Plugins
 
 ### Плагин - Bob Single Sync Info

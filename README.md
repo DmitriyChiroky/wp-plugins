@@ -1,6 +1,6 @@
-Plugins development and modification.
+## Plugins development and modification.
 
-# List of WordPress Plugins
+List of WordPress Plugins
 
 ### Плагин - Bob Single Sync Info
 [Code - GitHub](https://github.com/DmitriyChiroky/wp-plugins/tree/main/bob-single-sync-info)
